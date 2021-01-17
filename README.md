@@ -2,7 +2,7 @@
 20487_MOD03_DEMO_LAK
 
 
-** Escenario
+** Escenario **
 
 En este laboratorio, crearás y usarás ASP.NET Core Web APIs.
 
